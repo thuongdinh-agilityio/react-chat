@@ -10,6 +10,7 @@ Vagrant help development envs are the same with all machines. First you need set
 ```bash
 $ vagrant up
 $ vagrant ssh # access to the vagrant env
+$ cd /app
 ```
 
 
