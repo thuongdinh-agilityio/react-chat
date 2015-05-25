@@ -3,6 +3,16 @@
 
 > Chat Application with React.js, flux & Firebase
 
+## Vagrant up
+
+Vagrant help development envs are the same with all machines. First you need setup virtualbox & vagrant, to start, run: 
+
+```bash
+$ vagrant up
+$ vagrant ssh # access to the vagrant env
+```
+
+
 ## Running your project
 
 The generated project includes a live-reloading static server on port `8080` (you can change the port in the `gulpfile.js` config), which will build, launch, and rebuild the app whenever you change application code. To start the server, run:
